@@ -23,6 +23,30 @@
 <div align="center">
   <img src="https://github.com/CprE-KMUTNB/PinTheBin-Clone/assets/66838025/a06ad9d3-8b1f-439c-a9db-921fb0159aa0" alt="homepage-demo">
 </div>
+<br/>
+
+## ❓ What is this
+This app is for people who want to find trash cans nearby and help reduce trash to protect the environment. And including tourists who are unfamiliar with the location But want to find the location of the trash can so that it can be disposed of correctly.
+
+**Powered by** 
+- Vercel for frontend web app
+- Microsoft SQL Server for database
+
+<br/>
+
+## 🛠 Tools and Tech Stacks
+- NodeJS
+- NextJS 13
+- ExpressJS
+- TailwindCSS
+- Postman
+- JSON Web Token
+- Visual Studio Code
+- Microsoft SQL Server
+- Microsoft Azure Virtual Machine
+- Beekeeper Studio (Community Edition)
+
+<br/>
 
 ## 📃 Wiki for this project
 0. [Welcome](https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/wiki/00-%E2%80%90-Welcome)
@@ -30,7 +54,12 @@
 2. [Cloud for App Deployment](https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/wiki/02-%E2%80%90-Cloud-for-App-Deployment)
 3. [Development Framework](https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/wiki/03-%E2%80%90-Development-Framework) by **MENN** framework
 4. [Software Tools and Library](https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/wiki/04-%E2%80%90-Software-Tools-and-Library)
-Using Visual Studio Code for editing and Postman use to test API
+
+<br/>
+
+## 🤔 Usage
+Here is our manual 
+[PinTheBinManualRev1.pdf](https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/files/13595820/PinTheBinManualRev1.pdf)
 
 <br/>
 
