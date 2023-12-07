@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/github/license/I2eNamE/PinTheBin">
   <br/>
 
+<div align="center">
+  <img src="https://github.com/CprE-KMUTNB/PinTheBin-Clone/assets/66838025/a06ad9d3-8b1f-439c-a9db-921fb0159aa0" alt="homepage-demo">
+</div>
+
 ## 📃 Wiki for this project
 0. [Welcome](https://github.com/I2eNamE/pinTheBin/wiki/00-%E2%80%90-Welcome)
 1. [Source Code Control](https://github.com/I2eNamE/pinTheBin/wiki/01-%E2%80%90-Source-Code-Control) Getting started with GitHub and create a repository for the project.
