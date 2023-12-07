@@ -4,20 +4,20 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/I2eNamE/PinTheBin/issues">Request Feature</a>
+  <a href="https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/issues">Request Feature</a>
   |
-  <a href="https://github.com/I2eNamE/PinTheBin/issues">Report Bug</a>
+  <a href="https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/issues">Report Bug</a>
   |
   <a href="https://www.figma.com/file/f2s3216X8QMufOLoHEMDZT/PinTheBinFrontendV1?type=design&node-id=0%3A1&mode=design&t=7SBPC1QQjXNYJGVF-1&authuser=0">View Prototype in Figma</a>
   |
   <a href="https://pinthebin.vercel.app/">Try using this app!</a>
   <br/>
   <br/>
-  <img src="https://img.shields.io/github/contributors/I2eNamE/PinTheBin?color=dark-green">
-  <img src="https://img.shields.io/github/forks/I2eNamE/PinTheBin?style=social">
-  <img src="https://img.shields.io/github/stars/I2eNamE/PinTheBin?style=social">
-  <img src="https://img.shields.io/github/issues/I2eNamE/PinTheBin">
-  <img src="https://img.shields.io/github/license/I2eNamE/PinTheBin">
+  <img src="https://img.shields.io/github/contributors/CprE-KMUTNB/PinTheBin_by_Phutawan?color=dark-green">
+  <img src="https://img.shields.io/github/forks/CprE-KMUTNB/PinTheBin_by_Phutawan?style=social">
+  <img src="https://img.shields.io/github/stars/CprE-KMUTNB/PinTheBin_by_Phutawan?style=social">
+  <img src="https://img.shields.io/github/issues/CprE-KMUTNB/PinTheBin_by_Phutawan">
+  <img src="https://img.shields.io/github/license/CprE-KMUTNB/PinTheBin_by_Phutawan">
   <br/>
 
 <div align="center">
@@ -25,23 +25,23 @@
 </div>
 
 ## 📃 Wiki for this project
-0. [Welcome](https://github.com/I2eNamE/pinTheBin/wiki/00-%E2%80%90-Welcome)
-1. [Source Code Control](https://github.com/I2eNamE/pinTheBin/wiki/01-%E2%80%90-Source-Code-Control) Getting started with GitHub and create a repository for the project.
-2. [Cloud for App Deployment](https://github.com/I2eNamE/pinTheBin/wiki/02-%E2%80%90-Cloud-for-App-Deployment)
-3. [Development Framework](https://github.com/I2eNamE/pinTheBin/wiki/03-%E2%80%90-Development-Framework) by **MENN** framework
-4. [Software Tools and Library](https://github.com/I2eNamE/pinTheBin/wiki/04-%E2%80%90-Software-Tools-and-Library)
+0. [Welcome](https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/wiki/00-%E2%80%90-Welcome)
+1. [Source Code Control](https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/wiki/01-%E2%80%90-Source-Code-Control) Getting started with GitHub and create a repository for the project.
+2. [Cloud for App Deployment](https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/wiki/02-%E2%80%90-Cloud-for-App-Deployment)
+3. [Development Framework](https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/wiki/03-%E2%80%90-Development-Framework) by **MENN** framework
+4. [Software Tools and Library](https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/wiki/04-%E2%80%90-Software-Tools-and-Library)
 Using Visual Studio Code for editing and Postman use to test API
 
 <br/>
 
 ## 🔨 License
-Distributed under the MIT License. See [LICENSE](https://github.com/I2eNamE/PinTheBin/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/blob/main/LICENSE) for more information.
 
 <br/>
 
 ## 📝 Authors
-* 65-010126-2007-1 นายฐาปณวัฒน์ ม่วงศรี
-* 65-010126-3014-0 นายภูตะวัน จันทร์เรือง
+* 65-010126-2007-1 [นายฐาปณวัฒน์ ม่วงศรี](https://github.com/I2eNamE)
+* 65-010126-3014-0 [นายภูตะวัน จันทร์เรือง](https://github.com/ATOMIC09)
 
 <br/>
 <br/>
