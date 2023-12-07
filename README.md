@@ -28,9 +28,15 @@
 ## ❓ What is this
 This app is for people who want to find trash cans nearby and help reduce trash to protect the environment. And including tourists who are unfamiliar with the location But want to find the location of the trash can so that it can be disposed of correctly.
 
-**Powered by** 
-- Vercel for frontend web app
-- Microsoft SQL Server for database
+**Powered by** Vercel for frontend web app and Microsoft SQL Server for database
+
+<br/>
+
+## 🚀 Features
+- Add bin to current user's location
+- Edit or delete bin information
+- View bin information which includes pictures, names, positions, types
+- Report a problem with the app or the bin
 
 <br/>
 
