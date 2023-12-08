@@ -71,7 +71,7 @@ Here is our manual
 <br/>
 
 ## 🔨 License
-Distributed under the MIT License. See [LICENSE](https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/blob/main/LICENSE) for more information.
+Distributed under the Creative Commons Zero v1.0 Universal License. See [LICENSE](https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/blob/main/LICENSE) for more information.
 
 <br/>
 
