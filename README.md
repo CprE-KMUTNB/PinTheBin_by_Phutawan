@@ -58,7 +58,7 @@ This app is for people who want to find trash cans nearby and help reduce trash 
 0. [Welcome](https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/wiki/00-%E2%80%90-Welcome)
 1. [Source Code Control](https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/wiki/01-%E2%80%90-Source-Code-Control) Getting started with GitHub and create a repository for the project.
 2. [Cloud for App Deployment](https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/wiki/02-%E2%80%90-Cloud-for-App-Deployment)
-3. [Development Framework](https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/wiki/03-%E2%80%90-Development-Framework) by **MENN** framework
+3. [Development Framework](https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/wiki/03-%E2%80%90-Development-Framework) by **SENN** framework
 4. [Software Tools and Library](https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/wiki/04-%E2%80%90-Software-Tools-and-Library)
 5. [Demo Gallery](https://github.com/CprE-KMUTNB/PinTheBin_by_Phutawan/wiki/05-%E2%80%90-Demo-Gallery)
 
